@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsLive</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_hindi">Hindi</string>
+    <string name="title_english">English</string>
+    <string name="title_marathi">Marathi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="br">Powered by YouTube</string>
+
+</resources>

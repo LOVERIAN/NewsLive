@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/headline"
+        android:icon="@android:drawable/star_big_on"
+        android:title="Headlines" />
+    <item
+        android:id="@+id/live"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="Live TV" />
+</menu>
